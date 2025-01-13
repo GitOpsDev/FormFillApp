@@ -16,7 +16,7 @@
     <br>
     <label for="pan"><b>pan</b></label>
     <input type="text" placeholder="Enter pan" name="pan" id="pan" required>
-
+    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
